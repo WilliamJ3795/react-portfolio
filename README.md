@@ -1,6 +1,6 @@
 # My-Portfolio-React-App
   - William James
-  - https://github.com/WilliamJ3795/My-Portfolio-react-app
+  - [https://github.com/WilliamJ3795/My-Portfolio-react-app](https://williamj3795.github.io/react-portfolio/)
 
 
   ## Description
@@ -25,7 +25,8 @@
 
   ## Installation
   To install this apllication, please follow the steps below:
-  - Go to the given Heroku link provided in this README
+  - Clone the repo through your terminal
+  - open repo in your code editor, open intergrated terminal and enter `npm install`
 
   ## Features
 
