@@ -10,7 +10,6 @@
   ## Table of Contents
   - [License](#license)
   - [Installation](#installation)
-  - [Usage](#usage)
   - [Features](#features)
   - [Tests](#tests)
   - [Credits](#contributors&credit)
@@ -27,6 +26,7 @@
   To install this apllication, please follow the steps below:
   - Clone the repo through your terminal
   - open repo in your code editor, open intergrated terminal and enter `npm install`
+  - once all dependencies are installed, enter `npm start`
 
   ## Features
 
