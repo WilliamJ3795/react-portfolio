@@ -1,11 +1,11 @@
-# My-Portfolio-React-App
+# react-portfolio
   - William James
-  - [https://github.com/WilliamJ3795/My-Portfolio-react-app](https://williamj3795.github.io/react-portfolio/)
+  - [https://github.com/WilliamJ3795/react-portfolio](https://williamj3795.github.io/react-portfolio/)
 
 
   ## Description
   
-  - An application that showcases the use of React and
+  - A portolio website that uses react and tailwind for styling.
 
   ## Table of Contents
   - [License](#license)
@@ -30,7 +30,7 @@
 
   ## Features
 
-  - A save and delete function
+  - conditional rendering 
 
 
   ## Contributors & Credit
@@ -38,16 +38,10 @@
   - none
 
   # Tech
-  - Javascript
+  - React
   - Node.js
-  - Express.js
   - JSON
-  - Jquery
-  - CSS
-  - HTML
-
-  ## Deployment URL
-  - 
+  - Tailwind.css
 
   ## Questions
   if you have any questions about the repo, open an issue or contact me directly at williamj3795@gmail.com.
