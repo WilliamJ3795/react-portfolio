@@ -1,16 +1,15 @@
-# My-Portfolio-React-App
+# react-portfolio
   - William James
-  - https://github.com/WilliamJ3795/My-Portfolio-react-app
+  - [https://github.com/WilliamJ3795/react-portfolio](https://williamj3795.github.io/react-portfolio/)
 
 
   ## Description
   
-  - An application that showcases the use of React and
+  - A portolio website that uses react and tailwind for styling.
 
   ## Table of Contents
   - [License](#license)
   - [Installation](#installation)
-  - [Usage](#usage)
   - [Features](#features)
   - [Tests](#tests)
   - [Credits](#contributors&credit)
@@ -25,11 +24,13 @@
 
   ## Installation
   To install this apllication, please follow the steps below:
-  - Go to the given Heroku link provided in this README
+  - Clone the repo through your terminal
+  - open repo in your code editor, open intergrated terminal and enter `npm install`
+  - once all dependencies are installed, enter `npm start`
 
   ## Features
 
-  - A save and delete function
+  - conditional rendering 
 
 
   ## Contributors & Credit
@@ -37,16 +38,10 @@
   - none
 
   # Tech
-  - Javascript
+  - React
   - Node.js
-  - Express.js
   - JSON
-  - Jquery
-  - CSS
-  - HTML
-
-  ## Deployment URL
-  - 
+  - Tailwind.css
 
   ## Questions
   if you have any questions about the repo, open an issue or contact me directly at williamj3795@gmail.com.
