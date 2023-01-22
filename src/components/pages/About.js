@@ -1,5 +1,8 @@
 import React from 'react';
 import { BsFillLaptopFill } from "react-icons/bs";
+import {BsLinkedin} from "react-icons/bs";
+import {BsGithub} from "react-icons/bs";
+
 
 export default function About() {
   return (
