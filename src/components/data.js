@@ -15,6 +15,23 @@ export const projects = [
     image: "./weatherdashboardgif.gif",
     link: "https://williamj3795.github.io/Rain-or-shine/",
   },
+  {
+    title: "Work Day Scheduler",
+    subtitle: "JS and jQuery",
+    description:
+      "A simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.",
+    image: "./work-day-scheduler.gif.gif",
+    link: "https://williamj3795.github.io/Work-day-scheduler/",
+  },
+  {
+    title: "Tech Support",
+    subtitle: "Handlebars.js and MySQL",
+    description:
+      "A tech blog website created using the MVC model.",
+    image: "./mvc-blog-demo.gif",
+    link: "https://tech-support-mvc-blog.herokuapp.com/",
+  },
+
 ];
 
 export const testimonials = [
