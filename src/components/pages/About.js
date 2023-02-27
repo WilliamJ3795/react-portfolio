@@ -43,13 +43,13 @@ export default function About() {
         />
       </div>
     </div>
-    <footer className=" px-8 py-8 bg-yellow-400 md:sticky top-0 z-10 ">
+    <footer className=" px-8 py-12 bg-yellow-500 md:sticky top-0 z-10 ">
       <div className='flex m-auto w-28 justify-between'>
         
-       <a href='https://www.linkedin.com/in/william-james-b25633101/'>
+       <a href='https://www.linkedin.com/in/william-james-b25633101/' target={"_blank"}>
           <BsLinkedin className="object-cover h-6 w-6 hover:text-white"/>
        </a>
-       <a href='https://github.com/WilliamJ3795'>
+       <a href='https://github.com/WilliamJ3795' target={"_blank"}>
           <BsGithub className="object-cover h-6 w-6 mr-5 hover:text-white"/>
        </a>
        </div>
