@@ -1,6 +1,6 @@
 {
-  "homepage": "https://williamj3795.github.io/My-Portfolio-react-app",
-  "name": "my-portfolio",
+  "homepage": "https://williamj3795.github.io/react-portfolio",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
